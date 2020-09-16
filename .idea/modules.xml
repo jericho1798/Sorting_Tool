@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sorting_Tool.iml" filepath="$PROJECT_DIR$/.idea/modules/Sorting_Tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Boxes are not just objects!/Sorting_Tool.Problems-Boxes_are_not_just_objects!.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Boxes are not just objects!/Sorting_Tool.Problems-Boxes_are_not_just_objects!.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Boxes are not just objects!/Sorting_Tool.Problems-Boxes_are_not_just_objects!.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Boxes are not just objects!/Sorting_Tool.Problems-Boxes_are_not_just_objects!.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Boxes are not just objects!/Sorting_Tool.Problems-Boxes_are_not_just_objects!.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Boxes are not just objects!/Sorting_Tool.Problems-Boxes_are_not_just_objects!.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Displaying pairs/Sorting_Tool.Problems-Displaying_pairs.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Displaying pairs/Sorting_Tool.Problems-Displaying_pairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Displaying pairs/Sorting_Tool.Problems-Displaying_pairs.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Displaying pairs/Sorting_Tool.Problems-Displaying_pairs.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Displaying pairs/Sorting_Tool.Problems-Displaying_pairs.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Displaying pairs/Sorting_Tool.Problems-Displaying_pairs.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Getting submaps/Sorting_Tool.Problems-Getting_submaps.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Getting submaps/Sorting_Tool.Problems-Getting_submaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Getting submaps/Sorting_Tool.Problems-Getting_submaps.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Getting submaps/Sorting_Tool.Problems-Getting_submaps.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Getting submaps/Sorting_Tool.Problems-Getting_submaps.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Getting submaps/Sorting_Tool.Problems-Getting_submaps.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Output elements/Sorting_Tool.Problems-Output_elements.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Output elements/Sorting_Tool.Problems-Output_elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Output elements/Sorting_Tool.Problems-Output_elements.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Output elements/Sorting_Tool.Problems-Output_elements.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Output elements/Sorting_Tool.Problems-Output_elements.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Output elements/Sorting_Tool.Problems-Output_elements.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Sorting_Tool.Problems-Output_the_list's_elements.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Sorting_Tool.Problems-Output_the_list's_elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Sorting_Tool.Problems-Output_the_list's_elements.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Sorting_Tool.Problems-Output_the_list's_elements.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Sorting_Tool.Problems-Output_the_list's_elements.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Sorting_Tool.Problems-Output_the_list's_elements.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Removing elements/Sorting_Tool.Problems-Removing_elements.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Removing elements/Sorting_Tool.Problems-Removing_elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Removing elements/Sorting_Tool.Problems-Removing_elements.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Removing elements/Sorting_Tool.Problems-Removing_elements.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Removing elements/Sorting_Tool.Problems-Removing_elements.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Removing elements/Sorting_Tool.Problems-Removing_elements.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Spell checker/Sorting_Tool.Problems-Spell_checker.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Spell checker/Sorting_Tool.Problems-Spell_checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Spell checker/Sorting_Tool.Problems-Spell_checker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Spell checker/Sorting_Tool.Problems-Spell_checker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Spell checker/Sorting_Tool.Problems-Spell_checker.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Spell checker/Sorting_Tool.Problems-Spell_checker.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Squares list/Sorting_Tool.Problems-Squares_list.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Squares list/Sorting_Tool.Problems-Squares_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Squares list/Sorting_Tool.Problems-Squares_list.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Squares list/Sorting_Tool.Problems-Squares_list.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Squares list/Sorting_Tool.Problems-Squares_list.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Squares list/Sorting_Tool.Problems-Squares_list.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Tricky sub-maps/Sorting_Tool.Problems-Tricky_sub-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Tricky sub-maps/Sorting_Tool.Problems-Tricky_sub-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Tricky sub-maps/Sorting_Tool.Problems-Tricky_sub-maps.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Tricky sub-maps/Sorting_Tool.Problems-Tricky_sub-maps.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Tricky sub-maps/Sorting_Tool.Problems-Tricky_sub-maps.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Tricky sub-maps/Sorting_Tool.Problems-Tricky_sub-maps.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sorting Tool/task/Sorting_Tool.Sorting_Tool-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Sorting Tool/task/Sorting_Tool.Sorting_Tool-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sorting Tool/task/Sorting_Tool.Sorting_Tool-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Sorting Tool/task/Sorting_Tool.Sorting_Tool-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sorting Tool/task/Sorting_Tool.Sorting_Tool-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Sorting Tool/task/Sorting_Tool.Sorting_Tool-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Sorting_Tool.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Sorting_Tool.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Sorting_Tool.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Sorting_Tool.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Sorting_Tool.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Sorting_Tool.util.test.iml" />
+    </modules>
+  </component>
+</project>

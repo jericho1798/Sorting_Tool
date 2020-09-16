@@ -1,0 +1,21 @@
+# Project exclude paths
+/.gradle/
+/Problems/Displaying pairs/out/
+/Problems/Displaying pairs/out/production/classes/
+/Problems/Getting submaps/out/
+/Problems/Getting submaps/out/production/classes/
+/Problems/Output elements/out/
+/Problems/Output elements/out/production/classes/
+/Problems/Output the list's elements/out/
+/Problems/Output the list's elements/out/production/classes/
+/Problems/Removing elements/out/
+/Problems/Removing elements/out/production/classes/
+/Problems/Spell checker/out/
+/Problems/Spell checker/out/production/classes/
+/Problems/Squares list/out/
+/Problems/Squares list/out/production/classes/
+/Problems/Tricky sub-maps/out/
+/Problems/Tricky sub-maps/out/production/classes/
+/Sorting Tool/task/build/
+/Sorting Tool/task/out/
+/Sorting Tool/task/out/production/classes/
